@@ -1,2 +1,0 @@
-# practica
-proyecto de practica
